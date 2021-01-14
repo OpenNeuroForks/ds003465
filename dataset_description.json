@@ -9,7 +9,7 @@
 		"Michael C. Freund",
         "Joset A. Etzel"
     ],
-    "Acknowledgements": "We thank Kevin Oksanen, Leah Newcomer, Erin Gourley, Maria Gehred, Allison Tay, and Rachel Brough for assistance with data collection and processing. We thank Carolina Ramirez, Mitch Jeffers, and Nicholas Bloom for assistance with pipeline programming and dataset managment.",
+    "Acknowledgements": "We thank Rachel Brough, Maria Gehred, Erin Gourley, Leah Newcomer, Kevin Oksanen, Allison Tay, and Anxu Wang for assistance with data collection and processing. We thank Nicholas Bloom, Mitch Jeffers, and Carolina Ramirez for assistance with pipeline programming and dataset managment.",
 	"HowToAcknowledge": "https://www.biorxiv.org/content/10.1101/2020.09.18.304402v1",
     "Funding": [
         "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
@@ -20,7 +20,7 @@
 ],
     "ReferencesAndLinks": [
         "https://sites.wustl.edu/ccplab/",
-        "https://pages.wustl.edu/dualmechanisms",
+        "https://sites.wustl.edu/dualmechanisms",
 		"https://github.com/ccplabwustl/dualmechanisms",
 		"https://nda.nih.gov/edit_collection.html?id=2970",
 		"https://osf.io/6jd9e/"
