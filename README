@@ -36,3 +36,4 @@ The DMCC (http://sites.wustl.edu/dualmechanisms/sternberg-task) uses the "recent
 Task Description: Stroop (Stroop)
 ---------------------------------
 The DMCC Stroop task (http://sites.wustl.edu/dualmechanisms/stroop), is the color/word Stroop, with responses (color names) spoken aloud in the scanner. Incongruent trials (word and color do not match) are considered "high", congruent trials (word and color match) are considered "low". The target period for high > low is 4 TRs (4.8 s) after event onset.
+
