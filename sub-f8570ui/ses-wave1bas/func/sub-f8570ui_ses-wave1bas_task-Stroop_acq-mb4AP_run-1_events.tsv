@@ -89,7 +89,7 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 508.324	2	Con	MC	0.773	1
 514.323	2	InCon	PC50	0.8705	1
 519.123	2	InCon	PC50	0.945	1
-522.722	2	Con	MC	NA	1
+522.722	2	Con	MC	n/a	1
 527.521	2	InCon	PC50	0.8845	1
 533.52	2	InCon	MC	0.7295	1
 539.519	2	InCon	PC50	0.948	1

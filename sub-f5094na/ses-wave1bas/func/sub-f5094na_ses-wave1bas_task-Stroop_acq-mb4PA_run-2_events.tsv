@@ -3,7 +3,7 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 34.304	2	Con	PC50	0.699	1
 37.903	2	Con	MC	0.732	1
 42.703	2	InCon	MC	0.92	1
-47.502	2	InCon	PC50	NA	1
+47.502	2	InCon	PC50	n/a	1
 51.101	2	Con	MC	0.9245	1
 57.117	2	Con	MC	0.703	1
 61.916	2	Con	MC	0.83	1
@@ -73,7 +73,7 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 402.712	2	InCon	MC	0.8375	1
 436.307	2	InCon	MC	0.8955	1
 442.306	2	Con	PC50	0.7695	1
-445.905	2	Con	MC	NA	1
+445.905	2	Con	MC	n/a	1
 451.904	2	Con	MC	0.8425	1
 456.703	2	Con	MC	0.648	1
 460.303	2	InCon	PC50	0.5	1
@@ -91,8 +91,8 @@ onset	duration	trial_type	trial_lwpc	response_time	response_accuracy
 516.71	2	Con	MC	0.6695	1
 522.71	2	Con	MC	0.7345	1
 528.709	2	Con	MC	0.7485	1
-532.308	2	Con	PC50	NA	1
-537.107	2	InCon	PC50	NA	1
+532.308	2	Con	PC50	n/a	1
+537.107	2	InCon	PC50	n/a	1
 543.106	2	Con	MC	0.9105	1
 546.706	2	Con	PC50	0.7815	1
 551.505	2	InCon	MC	0.935	1
