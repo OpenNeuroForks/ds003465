@@ -37,3 +37,9 @@ Task Description: Stroop (Stroop)
 ---------------------------------
 The DMCC Stroop task (http://sites.wustl.edu/dualmechanisms/stroop), is the color/word Stroop, with responses (color names) spoken aloud in the scanner. Incongruent trials (word and color do not match) are considered "high", congruent trials (word and color match) are considered "low". The target period for high > low is 4 TRs (4.8 s) after event onset.
 
+
+Derivatives Description: questionnaires
+---------------------------------------
+The derivatives/questionnaires/ directory contains scores for the DMCC55B participants on 28 different psychological questionnaires. These files follow the format and naming used by the NIMH Data Archive (https://nda.nih.gov/), *except* that the DMCC release subject IDs are used (not GUIDs or regular DMCC IDs), only DMCC55B participants are included (not all collected participants or sessions), and some demographic details are omitted for privacy. All DMCC questionnaire data is being submitted to the NDA, and will be made public through that site in the future.
+
+The Data Expected tab of the DMCC's NDA page (https://nda.nih.gov/edit_collection.html?id=2970) lists the full names of each questionnaire, with links to the corresponding data dictionary for each. For example, the Positive and Negative Affect Schedule results are in the panas01_DMCC55B.csv file, and the fields and scoring described at https://nda.nih.gov/data_structure.html?short_name=panas01.
