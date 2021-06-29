@@ -1,6 +1,9 @@
 Introduction
 ------------
-This dataset contains a subset of the task fMRI runs collected in the ongoing Dual Mechanisms of Cognitive Control project (DMCC). More information about the experiment and tasks is available at https://www.biorxiv.org/content/10.1101/2020.09.18.304402v1, http://sites.wustl.edu/dualmechanisms/, and https://osf.io/6jd9e/, with additional processing and analysis code at https://github.com/ccplabwustl/dualmechanisms. Please contact Jo Etzel (jetzel@wustl.edu) or Todd Braver (tbraver@wustl.edu) with questions and comments, including about access to additional data.
+The DMCC55B dataset is a subset of the task fMRI runs collected in the ongoing Dual Mechanisms of Cognitive Control project (DMCC). DMCC55B is described in detail in "The Dual Mechanisms of Cognitive Control dataset: A theoretically-guided within-subject task fMRI battery" (https://doi.org/10.1101/2021.05.28.446178) by Joset A. Etzel, Rachel E. Brough, Michael C. Freund, Alexander Kizhner, Yanli Lin, Matthew F. Singh, Rongxiang Tang, Allison Tay, Anxu Wang, and Todd S. Braver. Accompanying analysis scripts and details are at https://osf.io/vqe92/. 
+
+
+Further information about the DMCC project as a whole is at https://www.biorxiv.org/content/10.1101/2020.09.18.304402v1, http://sites.wustl.edu/dualmechanisms/, and https://osf.io/6jd9e/, with additional processing and analysis code at https://github.com/ccplabwustl/dualmechanisms. Please contact Jo Etzel (jetzel@wustl.edu) or Todd Braver (tbraver@wustl.edu) with questions and comments, including about access to additional data.
 
 
 Acquisition and Analysis Notes
